@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="777.885" height="1600.533" viewBox="0 0 777.885 1600.533">
+  <defs>
+    <filter id="Rectangle_717" x="0" y="0" width="777.885" height="488.725" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_717-2" x="0" y="555.904" width="777.885" height="488.725" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_717-3" x="0" y="1111.808" width="777.885" height="488.725" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_46" data-name="Group 46" transform="translate(-6557 -128)">
+    <g id="Group_43" data-name="Group 43" transform="translate(6566 134)">
+      <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Rectangle_717)">
+        <rect id="Rectangle_717-4" data-name="Rectangle 717" width="759.885" height="470.725" transform="translate(9 6)" fill="#fff"/>
+      </g>
+      <g id="Group_16" data-name="Group 16" transform="translate(665.74 29.14)">
+        <text id="_" data-name="+" transform="translate(15.691 42)" fill="#24cd98" font-size="44" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">+</tspan></text>
+        <g id="Ellipse_6" data-name="Ellipse 6" fill="none" stroke="#24cd98" stroke-width="1">
+          <circle cx="28.019" cy="28.019" r="28.019" stroke="none"/>
+          <circle cx="28.019" cy="28.019" r="27.519" fill="none"/>
+        </g>
+      </g>
+      <text id="Monthly_recurring_Revenue" data-name="Monthly recurring Revenue" transform="translate(375.116 98.005)" font-size="35" font-family="Roboto-Regular, Roboto"><tspan x="-207.009" y="0">Monthly recurring Revenue</tspan></text>
+      <text id="_9_vs_last_month" data-name="9% vs last month" transform="translate(418.918 371.474)" fill="#24cd98" font-size="35" font-family="Roboto-Regular, Roboto"><tspan x="-131.976" y="0">9% vs last month</tspan></text>
+      <text id="_4_523" data-name="$4,523" transform="translate(380.43 231.802)" fill="#24cd98" font-size="122" font-family="Slabo27px-Regular, "Slabo 27px""><tspan x="-162.667" y="0">$4,523</tspan></text>
+      <path id="path" d="M17.932,0,14.794,3.138,27.347,15.691H0v4.483H27.347L14.794,32.727l3.138,3.138L35.865,17.932Z" transform="translate(217.43 378.822) rotate(-90)" fill="#24cd98" fill-rule="evenodd"/>
+    </g>
+    <g id="Group_44" data-name="Group 44" transform="translate(6566 689.904)">
+      <g transform="matrix(1, 0, 0, 1, -9, -561.9)" filter="url(#Rectangle_717-2)">
+        <rect id="Rectangle_717-5" data-name="Rectangle 717" width="759.885" height="470.725" transform="translate(9 561.9)" fill="#fff"/>
+      </g>
+      <g id="Group_16-2" data-name="Group 16" transform="translate(665.74 29.14)">
+        <text id="_2" data-name="+" transform="translate(15.691 42)" fill="#24cd98" font-size="44" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">+</tspan></text>
+        <g id="Ellipse_6-2" data-name="Ellipse 6" fill="none" stroke="#24cd98" stroke-width="1">
+          <circle cx="28.019" cy="28.019" r="28.019" stroke="none"/>
+          <circle cx="28.019" cy="28.019" r="27.519" fill="none"/>
+        </g>
+      </g>
+      <text id="Current_Subscribers" data-name="Current Subscribers" transform="translate(378.155 98.005)" font-size="35" font-family="Roboto-Regular, Roboto"><tspan x="-153.928" y="0">Current Subscribers</tspan></text>
+      <text id="_2_vs_last_month" data-name="2% vs last month" transform="translate(418.918 371.474)" fill="#24cd98" font-size="35" font-family="Roboto-Regular, Roboto"><tspan x="-131.976" y="0">2% vs last month</tspan></text>
+      <text id="_450" data-name="450" transform="translate(379.918 232.802)" fill="#24cd98" font-size="123" font-family="Slabo27px-Regular, "Slabo 27px""><tspan x="-93.389" y="0">450</tspan></text>
+      <path id="path-2" data-name="path" d="M17.932,0,14.794,3.138,27.347,15.691H0v4.483H27.347L14.794,32.727l3.138,3.138L35.865,17.932Z" transform="translate(217.43 378.822) rotate(-90)" fill="#24cd98" fill-rule="evenodd"/>
+    </g>
+    <g id="Group_45" data-name="Group 45" transform="translate(6566 1245.808)">
+      <g transform="matrix(1, 0, 0, 1, -9, -1117.81)" filter="url(#Rectangle_717-3)">
+        <rect id="Rectangle_717-6" data-name="Rectangle 717" width="759.885" height="470.725" transform="translate(9 1117.81)" fill="#fff"/>
+      </g>
+      <g id="Group_16-3" data-name="Group 16" transform="translate(665.74 29.14)">
+        <text id="_3" data-name="+" transform="translate(15.691 42)" fill="#24cd98" font-size="44" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">+</tspan></text>
+        <g id="Ellipse_6-3" data-name="Ellipse 6" fill="none" stroke="#24cd98" stroke-width="1">
+          <circle cx="28.019" cy="28.019" r="28.019" stroke="none"/>
+          <circle cx="28.019" cy="28.019" r="27.519" fill="none"/>
+        </g>
+      </g>
+      <text id="Current_Visitors" data-name="Current Visitors" transform="translate(378.778 98.005)" font-size="35" font-family="Roboto-Regular, Roboto"><tspan x="-120.817" y="0">Current Visitors</tspan></text>
+      <text id="_5" data-name="5" transform="translate(380.923 231.802)" fill="#24cd98" font-size="122" font-family="Slabo27px-Regular, "Slabo 27px""><tspan x="-29.37" y="0">5</tspan></text>
+    </g>
+  </g>
+</svg>
